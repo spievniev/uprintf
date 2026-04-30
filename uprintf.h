@@ -22,8 +22,8 @@
 
 /*
 
-uprintf v1.2.0
-Documentation, examples and issues: https://github.com/spevnev/uprintf
+uprintf v1.2.1
+Documentation, examples and issues: https://github.com/spievniev/uprintf
 
 Minimal example:
 ```
